@@ -18,12 +18,7 @@ A simple and efficient QR Code Generator built with Python. This tool allows you
 
 ---
 
-## 🚀 Demo
 
-<!-- Add a deployed link or demo GIF/screenshot here -->
-<!-- Example: ![QR Code Generator Demo](demo.gif) -->
-
----
 
 ## 🛠️ Technologies Used
 
@@ -33,9 +28,7 @@ A simple and efficient QR Code Generator built with Python. This tool allows you
 - (Optional) Tkinter for GUI
 - (Optional) HTML/CSS/JavaScript if it's a web app
 
----
 
-## 📦 Installation
 
 ### Clone the Repository
 ```bash
